@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Do's & dont's](README.md)
 
