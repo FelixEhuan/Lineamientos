@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Do's & dont's](README.md)
+* [Soluciones Colabora](README.md)
+* [Web](web/README.md)
+  * [Typescript](web/typescript.md)
 
