@@ -1,4 +1,4 @@
-# Web
+# Web Basics
 
 En este documento se resumen los lineamientos del área de desarrollo web de Soluciones Colabora, se deberán tomar cómo referencia al momento de realizar cualquier desarollo tecnológico.
 
